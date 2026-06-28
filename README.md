@@ -1,79 +1,53 @@
 # 🎥 YouTube Multiple Screen Player
 
-A responsive web application built using React.js and Tailwind CSS that allows users to watch a YouTube video on multiple screens simultaneously.
+A responsive web application built with **React.js** and **Tailwind CSS** that allows users to watch the same YouTube video on multiple screens simultaneously.
 
 ---
 
 # 🚀 Live Demo
 
-https://youtube-multiple-video.vercel.app/
+🔗 https://youtube-multiple-video.vercel.app/
 
 ---
 
 # 📌 Features
 
-* Paste YouTube Video Link
-* Select Number of Screens
-* Watch Video on Multiple Screens
-* Responsive Layout
-* Clean User Interface
-* Dynamic Screen Generation
+- 📺 Paste YouTube Video Link
+- 🖥️ Select Number of Screens
+- ▶️ Watch Video on Multiple Screens
+- 📱 Fully Responsive Layout
+- 🎨 Clean & Modern User Interface
+- ⚡ Dynamic Screen Generation
 
 ---
 
 # 🛠️ Technologies Used
 
-* React.js
-* Tailwind CSS
-* JavaScript
+- React.js
+- Tailwind CSS
+- JavaScript
 
 ---
 
 # ⚡ How It Works
 
-1. User enters a YouTube video link
-2. User selects how many screens to open
-3. The website dynamically creates multiple video players
-4. Videos are displayed in a responsive grid layout
+1. Paste a YouTube video URL.
+2. Choose the number of screens.
+3. The application dynamically creates multiple video players.
+4. Watch the same video in a responsive grid layout.
 
 ---
 
 # 📂 Project Structure
 
-```bash id="u7x9q2"
+```bash
 project-folder/
 │
 ├── src/
 │   ├── components/
 │   ├── App.jsx
-│   ├── main.jsx
+│   └── main.jsx
 │
 ├── public/
 ├── package.json
 └── tailwind.config.js
-```
-
----
-
-# 🎯 Purpose of This Project
-
-This project was created to practice:
-
-* React.js Development
-* Dynamic Rendering
-* User Input Handling
-* Responsive Grid Layouts
-* Tailwind CSS Design
-
----
-
-# 👨‍💻 Developer
-
-Muhammad Ishaq
-Frontend Developer from Pakistan 🇵🇰
-
----
-
-# 📄 License
-
-This project is open-source and free to use.
